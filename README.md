@@ -35,7 +35,7 @@ This model could potentially help first responders and call operators, if we get
 ### Video tutorials we think would help:
 * [Building a Neural Network with PyTorch](https://www.youtube.com/watch?v=mozBidd58VQ) (Georgina)
 * [How to Build a Data Pipeline](https://youtu.be/hKv70zftW-Y?si=CpZzFRkK_2CEemNN) (Tedd)
-* 
+* [End To End Machine Learning | Classification & Regression](https://www.youtube.com/watch?v=ocse1X_rtSI) (Aaleia)
 
 ## Schedule/Task Outline:
 ### Data cleaning and preprocessing

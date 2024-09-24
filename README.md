@@ -20,7 +20,8 @@ This model could potentially help first responders and call operators, if we get
   * Setting team goals and deadlines
   * Documentation and Presentation :sparkles:
 * Tedd:
-  * TBD
+  * Data organization, visualization, and analysis.
+  * Flexible role, can help out wherever needed.
 * Aaleia:
   * Data preprocessing
   * Feature engineering, hyperparameter tuning, etc.

@@ -22,7 +22,10 @@ This model could potentially help first responders and call operators, if we get
 * Tedd:
   * TBD
 * Aaleia:
-  * TBD
+  * Data preprocessing
+  * Feature engineering, hyperparameter tuning, etc.
+  * Frontend build (TBD)
+  * Outlines & insights
 
 ### The Data
 * [911 calls](https://data.cityofnewyork.us/Public-Safety/NYPD-Calls-for-Service-Year-to-Date-/n2zq-pubd/about_data)

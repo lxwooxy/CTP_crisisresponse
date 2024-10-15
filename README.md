@@ -4,6 +4,14 @@ We're Hunter College Computer Science students working on a data science project
 
 In this team: Georgina Woo, Tedd Lee, Aaleia Fernando
 
+# Weekly Update:
+### OCT 9-15
+
+* [ ] Download the data
+* [ ] Look at data
+* [ ] Do some visualization or find out what's messy about it
+* [ ] + bonus ideation
+
 # The Spiel
 ## Analyzing 911/311 service calls :phone::rotating_light:
 

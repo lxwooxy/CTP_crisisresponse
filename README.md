@@ -46,6 +46,11 @@ This model could potentially help first responders and call operators, if we get
 * [How to Build a Data Pipeline](https://youtu.be/hKv70zftW-Y?si=CpZzFRkK_2CEemNN) (Tedd)
 * [End To End Machine Learning | Classification & Regression](https://www.youtube.com/watch?v=ocse1X_rtSI) (Aaleia)
 
+## MVP
+The minimum viable product for this would be a data visualization project of the various crises in NYC over the past years. We can display the top crises by location, time of day, year, and combine that visualization with data of weather and location specific factors at the same time.
+
+The goal for the full project is to develop a classification model that decides what type of crisis an incoming call may be about, and what kind of emergency or non emergency services will be required.
+
 ## Schedule/Task Outline:
 ### Data cleaning and preprocessing
 * [ ] Hunt down datasets that are directly related to our project ideas

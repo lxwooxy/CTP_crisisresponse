@@ -11,7 +11,7 @@ In this team: Georgina Woo, Tedd Lee, Aaleia Fernando
 * [ ] Look at data
 * [ ] Do some visualization or find out what's messy about it
 * [ ] + bonus ideation
-* [ ] MVP
+* [x] MVP
 
 # The Spiel
 ## Analyzing 911/311 service calls :phone::rotating_light:

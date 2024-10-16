@@ -7,7 +7,7 @@ In this team: Georgina Woo, Tedd Lee, Aaleia Fernando
 # Weekly Update:
 ### OCT 9-15
 
-* [ ] Download the data
+* [x] Download the data
 * [ ] Look at data
 * [ ] Do some visualization or find out what's messy about it
 * [ ] + bonus ideation

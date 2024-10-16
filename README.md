@@ -7,11 +7,11 @@ In this team: Georgina Woo, Tedd Lee, Aaleia Fernando
 # Weekly Update:
 ### OCT 9-15
 
-* [x] Download the data
+* [x] Download the data (GW)
 * [ ] Look at data
 * [ ] Do some visualization or find out what's messy about it
 * [ ] + bonus ideation
-* [x] MVP
+* [x] MVP (GW)
 
 # The Spiel
 ## Analyzing 911/311 service calls :phone::rotating_light:

@@ -8,8 +8,8 @@ In this team: Georgina Woo, Tedd Lee, Aaleia Fernando
 ### OCT 9-15
 
 * [x] Download the data (GW)
-* [ ] Look at data
-* [ ] Do some visualization or find out what's messy about it
+* [x] Look at data (all)
+* [x] Do some visualization or find out what's messy about it (AF)
 * [ ] + bonus ideation
 * [x] MVP (GW)
 
